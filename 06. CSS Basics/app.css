@@ -1,0 +1,17 @@
+body {
+  .cast-list li {
+    color: green;
+  }
+
+  p {
+    color: blueviolet;
+  }
+
+  a {
+    color: red;
+  }
+
+  h3 {
+    color: orange;
+  }
+}
